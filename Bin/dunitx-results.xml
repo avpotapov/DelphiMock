@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="C:\Users\Aleksei\Documents\Embarcadero\Studio\Projects\DelphiMock\Bin\TestMock.exe" total="6" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2015-10-14" time="0.001">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="TestMock.exe" executed="true" result="Success" success="True" time="0.001" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="SampleMock" executed="true" result="Success" success="True" time="0.001" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="TMyTestObject" executed="True" result="Success" success="True" time="0.001" >
+                <results>
+                  <test-case name="TestBar.TestA" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="TestBar.TestB" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="TestBar2.TestA" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="TestBar2.TestB" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="TestMe" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="TestVarParam.TestA" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
